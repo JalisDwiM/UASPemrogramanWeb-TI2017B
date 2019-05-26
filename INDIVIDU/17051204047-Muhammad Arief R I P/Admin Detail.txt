@@ -1,0 +1,5 @@
+Admin
+Username : admin
+Password : arief123
+
+MYSQL PASSWORD USING MD5
